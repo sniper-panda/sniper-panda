@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 👋 This is @sniper-panda, a loyal COD enthusiast who has slowly 
 but surely grown to accept CODM to be good fun as well.
 
-👀 I’m interested in FullStack Development, Leveraging AI and ML
-for Practical Purposes, intrigue into Product Management, Travel and Food.
+👀 I’m interested in FullStack Development, Data Structures and Algorithmic Challenges,
+Leveraging AI and ML for Practical Purposes, intrigue into Product Management, Travel and Food.
 
 🌱 A lifelong learner, with a voracity to read. Although currently 
 hooked onto Designing and Building Web-Applications from Scratch.
